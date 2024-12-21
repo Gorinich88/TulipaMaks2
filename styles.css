@@ -12,7 +12,7 @@ body {
   background-image:
   linear-gradient(rgba(0, 0, 0, 0.5),
   rgba(0, 0, 0, 0.5)),
-  url('./page/барвінок.jpg');
+  url('./page/фон1.jpg');
   /* background-size: cover; */
   background-position: center;
   z-index: -1;
@@ -53,12 +53,12 @@ body {
 }
 
 .header-text p {
-  font-size: 30px;
+  font-size: 20px;
 }
 
 .header h1 {
   margin-bottom: 10px;
-  font-size: 50px;
+  font-size: 30px;
 }
 
 .content {
